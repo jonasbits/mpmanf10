@@ -1,0 +1,36 @@
+DriverLINX Port I/O Driver for Win95 and WinNT
+
+(C) Copyright 1996, Scientific Software Tools, Inc.
+All Rights Reserved.
+
+You are free to copy and distribute this product as long as this package is
+distributed in its entirety and Scientific Software Tools' copyright and
+trademark notices are not removed.
+
+The software and accompanying written materials (including instructions for
+use) are provided "as is" without warranty of any kind. Further, Scientific
+Software Tools, Inc. does not warrant, guarantee, or make any representations
+regarding the use, or the results of the use, of the software or written
+materials in terms of correctness, accuracy, reliability, currentness, or
+otherwise. The entire risk as to the results and performance of the software
+is assumed by Licensee and not by Scientific Software Tools, Inc. or its
+distributors, agents or employees.
+
+THERE ARE NO OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING 
+BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS 
+FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SOFTWARE, THE 
+ACCOMPANYING WRITTEN MATERIALS, AND ANY ACCOMPANYING HARDWARE.
+
+Scientific Software Tools, Inc.
+19 E. Central Avenue
+Paoli, PA 19301
+Phone: (610) 889-1354
+Fax: (610) 889-1556
+E-mail: sales@sstnet.com
+Web: www.sstnet.com
+
+-----
+
+DriverLINX is a registered trademark of Scientific Software Tools, Inc.
+Microsoft, Windows, Win95, and WinNT are registered trademarks of Microsoft
+Corporation.
