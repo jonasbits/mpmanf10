@@ -1,0 +1,12 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DLPortIO]
+"Type"=dword:00000001
+"Start"=dword:00000002
+"ErrorControl"=dword:00000001
+"DisplayName"="DriverLINX Port I/O Driver"
+"Group"="SST miniport drivers"
+"ImagePath"="System32\\DRIVERS\\dlportio.sys"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Parport\Parameters]
+"DisableWarmPoll"=dword:00000001
