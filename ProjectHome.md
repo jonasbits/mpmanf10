@@ -1,0 +1,1 @@
+To keep the code alive that enable the MPman F10 player to load mp3 through a parallel port. This is the Windows XP version.
